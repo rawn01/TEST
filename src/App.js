@@ -5,6 +5,7 @@ import NumberInput from "./NumberInput/NumberInput";
 function App() {
   return (
     <div className="App">
+      Some changes have been made
       <NumberInput />
     </div>
   );
